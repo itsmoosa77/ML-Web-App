@@ -1,5 +1,4 @@
 # ML-Web-App
-Overview
 The ML-Web-App is a web-based application designed to allow users to upload datasets and apply machine learning (ML) models to perform predictive analysis. The application provides a simple and intuitive interface for users to select a dataset, choose an ML model, and receive results based on the chosen algorithm.
 
 The project is built using Node.js for the backend to handle server-side operations, while the actual ML model execution is performed using a Python script. The two technologies are seamlessly integrated, providing an efficient and user-friendly experience for applying machine learning models.
