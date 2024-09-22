@@ -1,0 +1,17 @@
+{
+  "name": "ml-web2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.21.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
